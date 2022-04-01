@@ -1,0 +1,20 @@
+body{
+    background: url(../img/images.jpg);
+    text-align: center;
+}
+
+h1{
+    color: aqua;
+}
+
+p{
+    color: #ffffff;
+}
+
+button{
+    padding: 12px 40px;
+    color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    background: #000000;
+}
